@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 runs/
-datasets/PlantDoc
-datasets/FieldPlant
+datasets/PlantDoc/train
+datasets/PlantDoc/test
+datasets/FieldPlant/train
