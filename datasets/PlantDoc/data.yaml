@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../train/autosplit_train.txt
+val: ../train/autosplit_val.txt
 test: ../test/images
 
 nc: 30
